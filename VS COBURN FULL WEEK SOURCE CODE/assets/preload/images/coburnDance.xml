@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coburnDance.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coburn dance0000" x="1" y="1" width="429" height="726" frameX="0" frameY="0" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0001" x="1" y="1" width="429" height="726" frameX="0" frameY="0" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0002" x="431" y="1" width="359" height="720" frameX="-100" frameY="-6" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0003" x="431" y="1" width="359" height="720" frameX="-100" frameY="-6" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0004" x="791" y="1" width="366" height="707" frameX="-82" frameY="-19" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0005" x="791" y="1" width="366" height="707" frameX="-82" frameY="-19" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0006" x="1158" y="1" width="366" height="707" frameX="-82" frameY="-19" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0007" x="1158" y="1" width="366" height="707" frameX="-82" frameY="-19" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0008" x="791" y="1" width="366" height="707" frameX="-82" frameY="-19" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0009" x="1525" y="1" width="314" height="719" frameX="-107" frameY="-7" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0010" x="1525" y="1" width="314" height="719" frameX="-107" frameY="-7" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0011" x="1" y="728" width="348" height="712" frameX="-45" frameY="-14" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0012" x="1" y="728" width="348" height="712" frameX="-45" frameY="-14" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0013" x="350" y="728" width="375" height="698" frameX="-34" frameY="-28" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0014" x="350" y="728" width="375" height="698" frameX="-34" frameY="-28" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0015" x="726" y="728" width="375" height="698" frameX="-34" frameY="-28" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0016" x="726" y="728" width="375" height="698" frameX="-34" frameY="-28" frameWidth="459" frameHeight="726"/>
+	<SubTexture name="coburn dance0017" x="350" y="728" width="375" height="698" frameX="-34" frameY="-28" frameWidth="459" frameHeight="726"/>
+</TextureAtlas>

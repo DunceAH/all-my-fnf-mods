@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coburn-dead_assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death confirm0000" x="1" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0001" x="1" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0002" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0003" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0004" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0005" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0006" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0007" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0008" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0009" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0010" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0011" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0012" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0013" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0014" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0015" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0016" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0017" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0018" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0019" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0020" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0021" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0022" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0023" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0024" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0025" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0026" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0027" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0028" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0029" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0030" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0031" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0032" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="death confirm0033" x="666" y="1" width="664" height="968"/>
+	<SubTexture name="dies lol0000" x="1331" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0001" x="1331" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0002" x="1996" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0003" x="1996" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0004" x="2661" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0005" x="2661" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0006" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0007" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0008" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0009" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0010" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0011" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0012" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0013" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0014" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0015" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0016" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0017" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0018" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0019" x="3326" y="1" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0020" x="1" y="970" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0021" x="1" y="970" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0022" x="666" y="970" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0023" x="666" y="970" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0024" x="1331" y="970" width="664" height="961" frameX="0" frameY="0" frameWidth="664" frameHeight="962"/>
+	<SubTexture name="dies lol0025" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0026" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0027" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0028" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0029" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0030" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0031" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0032" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0033" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0034" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0035" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0036" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0037" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0038" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0039" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0040" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0041" x="1996" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0042" x="2661" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0043" x="2661" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0044" x="2661" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0045" x="2661" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0046" x="3326" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0047" x="3326" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0048" x="3326" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0049" x="3326" y="970" width="664" height="962"/>
+	<SubTexture name="dies lol0050" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="dies lol0051" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="dies lol0052" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="dies lol0053" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="dies lol0054" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="dies lol0055" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="dies lol0056" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="dies lol0057" x="1" y="1933" width="664" height="962"/>
+	<SubTexture name="loop death0000" x="666" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0001" x="666" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0002" x="1331" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0003" x="1331" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0004" x="1996" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0005" x="1996" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0006" x="2661" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0007" x="2661" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0008" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0009" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0010" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0011" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0012" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0013" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0014" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0015" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0016" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0017" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0018" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0019" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0020" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0021" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0022" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0023" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0024" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0025" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0026" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0027" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0028" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0029" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0030" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0031" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0032" x="3326" y="1933" width="664" height="968"/>
+	<SubTexture name="loop death0033" x="3326" y="1933" width="664" height="968"/>
+</TextureAtlas>

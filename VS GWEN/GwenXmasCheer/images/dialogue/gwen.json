@@ -1,0 +1,50 @@
+{
+	"position": [
+		40,
+		-110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "gwen_talk",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"anim": "talk",
+			"idle_name": "talk0005",
+			"loop_name": "talk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "happy",
+			"idle_name": "happy0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confuse",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "confused",
+			"idle_name": "confused0005"
+		}
+	]
+}

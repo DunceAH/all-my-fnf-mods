@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"expression": "look up",
+			"text": "I think i/'ll be joining you guys that ok?",
+			"boxState": "normal",
+			"speed": 0.005,
+			"portrait": "gf"
+		},
+		{
+			"expression": "hey",
+			"text": "BEEEEEP",
+			"boxState": "angry",
+			"speed": 0.005,
+			"portrait": "bf"
+		}
+	]
+}

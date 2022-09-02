@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Xochilt.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xochilt BLACK LINES0000" x="10" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0001" x="10" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0002" x="391" y="10" width="369" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0003" x="391" y="10" width="369" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0004" x="770" y="10" width="373" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0005" x="770" y="10" width="373" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0006" x="1153" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0007" x="1153" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0008" x="1153" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0009" x="1153" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0010" x="1153" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0011" x="1153" y="10" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0012" x="1534" y="10" width="370" height="358" frameX="0" frameY="0" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0013" x="1534" y="10" width="370" height="358" frameX="0" frameY="0" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0014" x="10" y="378" width="369" height="358" frameX="0" frameY="0" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0015" x="10" y="378" width="369" height="358" frameX="0" frameY="0" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0016" x="770" y="10" width="373" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0017" x="770" y="10" width="373" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0018" x="389" y="378" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0019" x="389" y="378" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0020" x="389" y="378" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0021" x="389" y="378" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0022" x="389" y="378" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+	<SubTexture name="xochilt BLACK LINES0023" x="389" y="378" width="371" height="355" frameX="0" frameY="-3" frameWidth="373" frameHeight="358"/>
+</TextureAtlas>

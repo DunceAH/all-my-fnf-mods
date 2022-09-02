@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "Talk",
+			"text": "woah an axolotle",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wink",
+			"text": "i think you meant axoltltle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "hey guys",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "x"
+		},
+		{
+			"expression": "hey",
+			"text": "lets poke it with a  stick!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "look up",
+			"text": "please do not do that",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "x"
+		},
+		{
+			"expression": "look up",
+			"text": "beep bop BAAPAPPAPA",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Talk",
+			"text": "that means he wants to sing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "hey",
+			"text": "oh ok!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "x"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-60,
+		-70
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "bf talk",
+			"idle_name": "bf talk0005"
+		}
+	],
+	"image": "bf_talk"
+}

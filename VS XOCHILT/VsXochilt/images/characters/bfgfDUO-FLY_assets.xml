@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfgfDUO-FLY_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down fly0000" x="1" y="1" width="964" height="784"/>
+	<SubTexture name="down fly0001" x="966" y="1" width="964" height="784"/>
+	<SubTexture name="down fly0002" x="1931" y="1" width="964" height="784"/>
+	<SubTexture name="gf bf fly idle0000" x="2896" y="1" width="964" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0001" x="3861" y="1" width="964" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0002" x="4826" y="1" width="964" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0003" x="5791" y="1" width="964" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0004" x="6756" y="1" width="964" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0005" x="1" y="786" width="964" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0006" x="966" y="786" width="973" height="784"/>
+	<SubTexture name="gf bf fly idle0007" x="1940" y="786" width="973" height="784"/>
+	<SubTexture name="gf bf fly idle0008" x="2914" y="786" width="970" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0009" x="3885" y="786" width="964" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0010" x="4850" y="786" width="970" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0011" x="5821" y="786" width="970" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0012" x="6792" y="786" width="972" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0013" x="1" y="1571" width="972" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="gf bf fly idle0014" x="974" y="1571" width="972" height="784" frameX="0" frameY="0" frameWidth="973" frameHeight="784"/>
+	<SubTexture name="left fly0000" x="1947" y="1571" width="963" height="784" frameX="0" frameY="0" frameWidth="968" frameHeight="784"/>
+	<SubTexture name="left fly0001" x="2911" y="1571" width="963" height="784" frameX="0" frameY="0" frameWidth="968" frameHeight="784"/>
+	<SubTexture name="left fly0002" x="3875" y="1571" width="968" height="784"/>
+	<SubTexture name="note down miss0000" x="4844" y="1571" width="964" height="784"/>
+	<SubTexture name="note down miss0001" x="5809" y="1571" width="964" height="784"/>
+	<SubTexture name="note down miss0002" x="6774" y="1571" width="964" height="784"/>
+	<SubTexture name="note down miss0003" x="1" y="2356" width="964" height="784"/>
+	<SubTexture name="note left miss0000" x="966" y="2356" width="964" height="785"/>
+	<SubTexture name="note left miss0001" x="1931" y="2356" width="964" height="784" frameX="0" frameY="0" frameWidth="964" frameHeight="785"/>
+	<SubTexture name="note left miss0002" x="1931" y="2356" width="964" height="784" frameX="0" frameY="0" frameWidth="964" frameHeight="785"/>
+	<SubTexture name="note left miss0003" x="2896" y="2356" width="964" height="784" frameX="0" frameY="0" frameWidth="964" frameHeight="785"/>
+	<SubTexture name="note right miss0000" x="3861" y="2356" width="963" height="784"/>
+	<SubTexture name="note right miss0001" x="4825" y="2356" width="963" height="784"/>
+	<SubTexture name="note right miss0002" x="5789" y="2356" width="963" height="784"/>
+	<SubTexture name="note right miss0003" x="6753" y="2356" width="963" height="784"/>
+	<SubTexture name="note up miss0000" x="1" y="3142" width="964" height="785"/>
+	<SubTexture name="note up miss0001" x="966" y="3142" width="964" height="784" frameX="0" frameY="0" frameWidth="964" frameHeight="785"/>
+	<SubTexture name="note up miss0002" x="966" y="3142" width="964" height="784" frameX="0" frameY="0" frameWidth="964" frameHeight="785"/>
+	<SubTexture name="note up miss0003" x="1931" y="3142" width="964" height="784" frameX="0" frameY="0" frameWidth="964" frameHeight="785"/>
+	<SubTexture name="right fly0000" x="2896" y="3142" width="963" height="784"/>
+	<SubTexture name="right fly0001" x="3860" y="3142" width="963" height="784"/>
+	<SubTexture name="right fly0002" x="4824" y="3142" width="963" height="784"/>
+	<SubTexture name="up fly0000" x="5788" y="3142" width="971" height="784" frameX="0" frameY="0" frameWidth="984" frameHeight="784"/>
+	<SubTexture name="up fly0001" x="6760" y="3142" width="971" height="784" frameX="0" frameY="0" frameWidth="984" frameHeight="784"/>
+	<SubTexture name="up fly0002" x="1" y="3928" width="984" height="784"/>
+</TextureAtlas>

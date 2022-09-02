@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_talk.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF excite0000" x="1" y="1" width="478" height="588"/>
+	<SubTexture name="GF excite0001" x="1" y="1" width="478" height="588"/>
+	<SubTexture name="GF excite0002" x="480" y="1" width="478" height="588"/>
+	<SubTexture name="GF excite0003" x="959" y="1" width="478" height="588"/>
+	<SubTexture name="GF excite0004" x="1438" y="1" width="478" height="588"/>
+	<SubTexture name="GF excite0005" x="1438" y="1" width="478" height="588"/>
+	<SubTexture name="GF hey0000" x="1917" y="1" width="478" height="588"/>
+	<SubTexture name="GF hey0001" x="1917" y="1" width="478" height="588"/>
+	<SubTexture name="GF hey0002" x="2396" y="1" width="478" height="588"/>
+	<SubTexture name="GF hey0003" x="2875" y="1" width="478" height="588"/>
+	<SubTexture name="GF hey0004" x="3354" y="1" width="478" height="588"/>
+	<SubTexture name="GF hey0005" x="3354" y="1" width="478" height="588"/>
+	<SubTexture name="GF right0000" x="1" y="590" width="478" height="588"/>
+	<SubTexture name="GF right0001" x="1" y="590" width="478" height="588"/>
+	<SubTexture name="GF right0002" x="480" y="590" width="478" height="588"/>
+	<SubTexture name="GF right0003" x="959" y="590" width="478" height="588"/>
+	<SubTexture name="GF right0004" x="1438" y="590" width="478" height="588"/>
+	<SubTexture name="GF right0005" x="1438" y="590" width="478" height="588"/>
+	<SubTexture name="GF talk0000" x="1917" y="590" width="478" height="588"/>
+	<SubTexture name="GF talk0001" x="1917" y="590" width="478" height="588"/>
+	<SubTexture name="GF talk0002" x="2396" y="590" width="478" height="588"/>
+	<SubTexture name="GF talk0003" x="2396" y="590" width="478" height="588"/>
+	<SubTexture name="GF talk0004" x="2875" y="590" width="478" height="588"/>
+	<SubTexture name="GF talk0005" x="2875" y="590" width="478" height="588"/>
+</TextureAtlas>

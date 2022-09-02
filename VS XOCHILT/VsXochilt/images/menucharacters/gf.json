@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BF HEY!!",
+	"idle_anim": "GF Dancing Beat",
+	"position": [
+		95,
+		150
+	],
+	"scale": 0.55,
+	"image": "Menu_GF"
+}

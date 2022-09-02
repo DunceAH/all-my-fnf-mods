@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "gf-beep",
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok let's begin"
+		},
+		{
+			"sound": "gf-beep",
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "teach",
+			"text": "when you see this arrow DO NOT PRESS IT"
+		},
+		{
+			"sound": "gf-beep",
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if you do press it the seagull will shit on your face and blind your camera for a while"
+		},
+		{
+			"sound": "gf-beep",
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "did you get that?"
+		},
+		{
+			"sound": "bf-beep",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "nope!"
+		},
+		{
+			"sound": "gf-beep",
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you're dead to me"
+		},
+		{
+			"sound": "coburn-beep",
+			"speed": 0.05,
+			"portrait": "coburn-talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hehe you guys are weird"
+		}
+	]
+}

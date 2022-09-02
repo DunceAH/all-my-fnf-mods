@@ -1,0 +1,10 @@
+{
+	"idle_anim": "GF menu idle",
+	"image": "Menu_gf-stand-christmas",
+	"position": [
+		110,
+		160
+	],
+	"scale": 0.8,
+	"confirm_anim": "GF menu hey"
+}

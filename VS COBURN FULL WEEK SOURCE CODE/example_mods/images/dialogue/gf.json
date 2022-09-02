@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-20,
+		-60
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "gf talk",
+			"idle_name": "gf talk0005"
+		},
+		{
+			"loop_name": "gf teach",
+			"idle_offsets": [
+				274,
+				-14
+			],
+			"idle_name": "gf teach0005",
+			"anim": "teach",
+			"loop_offsets": [
+				274,
+				-14
+			]
+		}
+	],
+	"image": "gf-talk_assets"
+}

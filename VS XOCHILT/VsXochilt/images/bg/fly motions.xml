@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fly motions.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fly motion0000" x="0" y="0" width="1606" height="1300" frameX="0" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0001" x="1606" y="0" width="1607" height="1307" frameX="-24" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0002" x="0" y="1307" width="1606" height="1434" frameX="-33" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0003" x="1606" y="1307" width="1607" height="1300" frameX="-49" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0004" x="0" y="2741" width="1606" height="1300" frameX="-66" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0005" x="0" y="0" width="1606" height="1300" frameX="0" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0006" x="1606" y="0" width="1607" height="1307" frameX="-24" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0007" x="0" y="1307" width="1606" height="1434" frameX="-33" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0008" x="1606" y="1307" width="1607" height="1300" frameX="-49" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0009" x="0" y="2741" width="1606" height="1300" frameX="-66" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0010" x="0" y="0" width="1606" height="1300" frameX="0" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0011" x="1606" y="0" width="1607" height="1307" frameX="-24" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0012" x="0" y="1307" width="1606" height="1434" frameX="-33" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0013" x="1606" y="1307" width="1607" height="1300" frameX="-49" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0014" x="0" y="2741" width="1606" height="1300" frameX="-66" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0015" x="0" y="0" width="1606" height="1300" frameX="0" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0016" x="1606" y="0" width="1607" height="1307" frameX="-24" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0017" x="0" y="1307" width="1606" height="1434" frameX="-33" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0018" x="1606" y="1307" width="1607" height="1300" frameX="-49" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0019" x="0" y="2741" width="1606" height="1300" frameX="-66" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0020" x="0" y="0" width="1606" height="1300" frameX="0" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0021" x="1606" y="0" width="1607" height="1307" frameX="-24" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0022" x="0" y="1307" width="1606" height="1434" frameX="-33" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0023" x="1606" y="1307" width="1607" height="1300" frameX="-49" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0024" x="0" y="2741" width="1606" height="1300" frameX="-66" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0025" x="0" y="0" width="1606" height="1300" frameX="0" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0026" x="1606" y="0" width="1607" height="1307" frameX="-24" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0027" x="0" y="1307" width="1606" height="1434" frameX="-33" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0028" x="1606" y="1307" width="1607" height="1300" frameX="-49" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0029" x="0" y="2741" width="1606" height="1300" frameX="-66" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0030" x="0" y="0" width="1606" height="1300" frameX="0" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0031" x="1606" y="0" width="1607" height="1307" frameX="-24" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0032" x="0" y="1307" width="1606" height="1434" frameX="-33" frameY="0" frameWidth="1672" frameHeight="1434"/>
+	<SubTexture name="fly motion0033" x="1606" y="1307" width="1607" height="1300" frameX="-49" frameY="0" frameWidth="1672" frameHeight="1434"/>
+</TextureAtlas>

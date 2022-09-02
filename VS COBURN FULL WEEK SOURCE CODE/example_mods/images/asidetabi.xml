@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="asidetabi.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="asidetabi0000" x="1" y="1" width="452" height="622" frameX="0" frameY="-14" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0001" x="1" y="1" width="452" height="622" frameX="0" frameY="-14" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0002" x="454" y="1" width="448" height="630" frameX="-2" frameY="-6" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0003" x="454" y="1" width="448" height="630" frameX="-2" frameY="-6" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0004" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0005" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0006" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0007" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0008" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0009" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0010" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0011" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0012" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0013" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+	<SubTexture name="asidetabi0014" x="903" y="1" width="444" height="636" frameX="-4" frameY="0" frameWidth="452" frameHeight="636"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dies lol0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "death confirm0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop death0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/coburn-dead_assets",
+	"position": [
+		0,
+		-190
+	],
+	"healthicon": "coburn",
+	"flip_x": false,
+	"healthbar_colors": [
+		167,
+		255,
+		247
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

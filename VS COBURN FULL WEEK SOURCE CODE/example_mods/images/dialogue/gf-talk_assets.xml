@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-talk_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf talk0000" x="1" y="1" width="448" height="436" frameX="0" frameY="0" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="gf talk0001" x="1" y="1" width="448" height="436" frameX="0" frameY="0" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="gf talk0002" x="450" y="1" width="448" height="441" frameX="0" frameY="0" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="gf talk0003" x="450" y="1" width="448" height="441" frameX="0" frameY="0" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="gf talk0004" x="899" y="1" width="448" height="447"/>
+	<SubTexture name="gf talk0005" x="899" y="1" width="448" height="447"/>
+	<SubTexture name="gf teach0000" x="1" y="449" width="778" height="423" frameX="0" frameY="0" frameWidth="778" frameHeight="439"/>
+	<SubTexture name="gf teach0001" x="1" y="449" width="778" height="423" frameX="0" frameY="0" frameWidth="778" frameHeight="439"/>
+	<SubTexture name="gf teach0002" x="780" y="449" width="778" height="437" frameX="0" frameY="0" frameWidth="778" frameHeight="439"/>
+	<SubTexture name="gf teach0003" x="780" y="449" width="778" height="437" frameX="0" frameY="0" frameWidth="778" frameHeight="439"/>
+	<SubTexture name="gf teach0004" x="1" y="887" width="778" height="439"/>
+	<SubTexture name="gf teach0005" x="1" y="887" width="778" height="439"/>
+</TextureAtlas>

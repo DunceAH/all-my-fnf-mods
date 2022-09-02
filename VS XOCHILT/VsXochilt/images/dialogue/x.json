@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-80
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "x talk0005",
+			"loop_name": "x talk"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "look up",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "x talk0005",
+			"loop_name": "x sad"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "x talk0005",
+			"loop_name": "x happy"
+		}
+	],
+	"image": "x_dia"
+}

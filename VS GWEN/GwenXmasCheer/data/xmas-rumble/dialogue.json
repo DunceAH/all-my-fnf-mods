@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gwen",
+			"boxState": "normal",
+			"expression": "hey",
+			"text": "merry christmas guys"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop sbpoob beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gwen",
+			"boxState": "normal",
+			"expression": "confuse",
+			"text": "can you speak proper english?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "cheer",
+			"text": "proper english"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gwen",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok then..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "anyway i think a song would really brighten up today"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gwen",
+			"boxState": "normal",
+			"expression": "hey",
+			"text": "im down for that"
+		}
+	]
+}

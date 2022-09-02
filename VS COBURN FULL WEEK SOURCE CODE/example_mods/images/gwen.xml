@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gwen.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gwen0000" x="1" y="1" width="305" height="316" frameX="0" frameY="-5" frameWidth="305" frameHeight="321"/>
+	<SubTexture name="gwen0001" x="1" y="1" width="305" height="316" frameX="0" frameY="-5" frameWidth="305" frameHeight="321"/>
+	<SubTexture name="gwen0002" x="307" y="1" width="305" height="318" frameX="0" frameY="-3" frameWidth="305" frameHeight="321"/>
+	<SubTexture name="gwen0003" x="307" y="1" width="305" height="318" frameX="0" frameY="-3" frameWidth="305" frameHeight="321"/>
+	<SubTexture name="gwen0004" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0005" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0006" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0007" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0008" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0009" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0010" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0011" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0012" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0013" x="613" y="1" width="305" height="321"/>
+	<SubTexture name="gwen0014" x="613" y="1" width="305" height="321"/>
+</TextureAtlas>

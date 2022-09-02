@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HAPPYsnow.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy-snow instance 10000" x="1" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10001" x="1" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10002" x="2647" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10003" x="2647" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10004" x="5293" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10005" x="5293" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10006" x="1" y="1393" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10007" x="5293" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10008" x="5293" y="1" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10009" x="2647" y="1393" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10010" x="2647" y="1393" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10011" x="5293" y="1393" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10012" x="5293" y="1393" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10013" x="1" y="2785" width="2645" height="1391"/>
+	<SubTexture name="happy-snow instance 10014" x="2647" y="2785" width="2645" height="1391"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "woof",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "penis",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Jubilant",
+			"coburn",
+			[
+				120,
+				235,
+				255
+			]
+		],
+		[
+			"Trust",
+			"coburn",
+			[
+				60,
+				235,
+				255
+			]
+		],
+		[
+			"Cherish",
+			"coburn",
+			[
+				80,
+				175,
+				255
+			]
+		],
+		[
+			"Wolf-Song",
+			"coburn",
+			[
+				20,
+				95,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "woof",
+	"hiddenUntilUnlocked": false
+}

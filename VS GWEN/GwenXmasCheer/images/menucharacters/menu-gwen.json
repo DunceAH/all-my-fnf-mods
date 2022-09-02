@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "GF menu hey",
+	"idle_anim": "idle",
+	"position": [
+		170,
+		140
+	],
+	"scale": 0.7,
+	"image": "Menu-gwen_assets"
+}

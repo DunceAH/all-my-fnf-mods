@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xochilt.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xochilt0000" x="1" y="1" width="217" height="180" frameX="0" frameY="-3" frameWidth="217" frameHeight="183"/>
+	<SubTexture name="xochilt0001" x="1" y="1" width="217" height="180" frameX="0" frameY="-3" frameWidth="217" frameHeight="183"/>
+	<SubTexture name="xochilt0002" x="219" y="1" width="217" height="181" frameX="0" frameY="-2" frameWidth="217" frameHeight="183"/>
+	<SubTexture name="xochilt0003" x="219" y="1" width="217" height="181" frameX="0" frameY="-2" frameWidth="217" frameHeight="183"/>
+	<SubTexture name="xochilt0004" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0005" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0006" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0007" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0008" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0009" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0010" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0011" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0012" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0013" x="1" y="183" width="217" height="183"/>
+	<SubTexture name="xochilt0014" x="1" y="183" width="217" height="183"/>
+</TextureAtlas>

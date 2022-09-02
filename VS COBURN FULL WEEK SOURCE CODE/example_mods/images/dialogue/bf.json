@@ -1,0 +1,25 @@
+{
+	"position": [
+		-20,
+		30
+	],
+	"dialogue_pos": "right",
+	"no_antialiasing": false,
+	"scale": 1.15,
+	"image": "bf-talk_assets",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "bf talk0005",
+			"loop_name": "bf talk"
+		}
+	]
+}

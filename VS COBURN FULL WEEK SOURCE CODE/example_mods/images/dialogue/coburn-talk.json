@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		60,
+		10
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "coburn talk",
+			"idle_name": "coburn talk0005"
+		}
+	],
+	"image": "coburn-talk_assets"
+}

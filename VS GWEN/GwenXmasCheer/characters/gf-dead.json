@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-113
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-106,
+				-138
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GF death loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-134
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GF death confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-dead_assets",
+	"position": [
+		20,
+		140
+	],
+	"healthicon": "gf-player",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"position": [
+		30,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.35,
+	"image": "bf_dia",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf talk",
+			"idle_name": "bf talk0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "look up",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf look up",
+			"idle_name": "bf look up0005"
+		},
+		{
+			"loop_offsets": [
+				10,
+				0
+			],
+			"anim": "hey",
+			"idle_offsets": [
+				10,
+				0
+			],
+			"loop_name": "bf hey",
+			"idle_name": "bf hey0005"
+		}
+	]
+}

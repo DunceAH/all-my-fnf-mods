@@ -1,0 +1,57 @@
+{
+	"storyName": "ambystoma mexicanum",
+	"hideFreeplay": false,
+	"weekBackground": "xochilt",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"xochilt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"key lime pie",
+			"xochilt",
+			[
+				66,
+				215,
+				255
+			]
+		],
+		[
+			"skip",
+			"xochilt",
+			[
+				255,
+				133,
+				75
+			]
+		],
+		[
+			"wormy",
+			"xochilt",
+			[
+				195,
+				255,
+				255
+			]
+		],
+		[
+			"sky high",
+			"xochilt-fly",
+			[
+				146,
+				40,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "XOCHILT FULL WEEK"
+}

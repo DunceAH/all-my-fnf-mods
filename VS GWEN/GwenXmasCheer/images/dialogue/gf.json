@@ -1,0 +1,63 @@
+{
+	"position": [
+		60,
+		-130
+	],
+	"dialogue_pos": "right",
+	"scale": 1.45,
+	"image": "gf_talk",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"anim": "talk",
+			"idle_name": "GF talk0005",
+			"loop_name": "GF talk     "
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cheer",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "GF excite",
+			"idle_name": "GF excite0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "GF hey",
+			"idle_name": "GF hey0005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "point",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "GF right",
+			"idle_name": "GF right0005"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fish.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fish0000" x="1" y="1" width="1249" height="1214" frameX="0" frameY="-20" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0001" x="1" y="1" width="1249" height="1214" frameX="0" frameY="-20" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0002" x="1251" y="1" width="1249" height="1215" frameX="0" frameY="-16" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0003" x="1251" y="1" width="1249" height="1215" frameX="0" frameY="-16" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0004" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0005" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0006" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0007" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0008" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0009" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0010" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0011" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0012" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0013" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+	<SubTexture name="fish0014" x="2501" y="1" width="1248" height="1225" frameX="0" frameY="0" frameWidth="1249" frameHeight="1234"/>
+</TextureAtlas>

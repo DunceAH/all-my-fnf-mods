@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stars.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stars20000" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20001" x="1971" y="1" width="1969" height="1630" frameX="0" frameY="-2" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20002" x="3941" y="1" width="1969" height="1631" frameX="0" frameY="-4" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20003" x="1" y="1" width="1969" height="1631" frameX="0" frameY="-5" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20004" x="3941" y="1" width="1969" height="1631" frameX="0" frameY="-7" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20005" x="5911" y="1" width="1969" height="1632" frameX="0" frameY="-8" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20006" x="1971" y="1" width="1969" height="1630" frameX="0" frameY="-9" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20007" x="5911" y="1" width="1969" height="1632" frameX="0" frameY="-11" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20008" x="1" y="1634" width="1969" height="1631" frameX="0" frameY="-13" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20009" x="1971" y="1634" width="1969" height="1632" frameX="0" frameY="-14" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20010" x="3941" y="1" width="1969" height="1631" frameX="0" frameY="-16" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20011" x="1" y="1" width="1969" height="1631" frameX="0" frameY="-17" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20012" x="3941" y="1" width="1969" height="1631" frameX="0" frameY="-19" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20013" x="5911" y="1" width="1969" height="1632" frameX="0" frameY="-21" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20014" x="1971" y="1" width="1969" height="1630" frameX="0" frameY="-22" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20015" x="5911" y="1" width="1969" height="1632" frameX="0" frameY="-24" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20016" x="1" y="1634" width="1969" height="1631" frameX="0" frameY="-26" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20017" x="5911" y="1" width="1969" height="1632" frameX="0" frameY="-17" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20018" x="1971" y="1634" width="1969" height="1632" frameX="0" frameY="-8" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20019" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20020" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20021" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20022" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20023" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20024" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20025" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20026" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20027" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20028" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20029" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20030" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20031" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20032" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+	<SubTexture name="stars20033" x="1" y="1" width="1969" height="1631" frameX="0" frameY="0" frameWidth="1969" frameHeight="1657"/>
+</TextureAtlas>

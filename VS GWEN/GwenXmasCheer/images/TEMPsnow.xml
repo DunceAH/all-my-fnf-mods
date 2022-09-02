@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TEMPsnow.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy-snow instance 10000" x="1" y="1" width="2684" height="1391"/>
+	<SubTexture name="happy-snow instance 10001" x="1" y="1" width="2684" height="1391"/>
+	<SubTexture name="happy-snow instance 10002" x="2686" y="1" width="2671" height="1391" frameX="-13" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10003" x="2686" y="1" width="2671" height="1391" frameX="-13" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10004" x="5358" y="1" width="2660" height="1391" frameX="-24" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10005" x="5358" y="1" width="2660" height="1391" frameX="-24" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10006" x="1" y="1393" width="2651" height="1391" frameX="-33" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10007" x="1" y="1393" width="2651" height="1391" frameX="-33" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10008" x="2653" y="1393" width="2684" height="1391"/>
+	<SubTexture name="happy-snow instance 10009" x="5338" y="1393" width="2684" height="1391"/>
+	<SubTexture name="happy-snow instance 10010" x="1" y="2785" width="2671" height="1391" frameX="-13" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10011" x="1" y="2785" width="2671" height="1391" frameX="-13" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10012" x="2673" y="2785" width="2660" height="1391" frameX="-24" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10013" x="2673" y="2785" width="2660" height="1391" frameX="-24" frameY="0" frameWidth="2684" frameHeight="1391"/>
+	<SubTexture name="happy-snow instance 10014" x="5334" y="2785" width="2651" height="1391" frameX="-33" frameY="0" frameWidth="2684" frameHeight="1391"/>
+</TextureAtlas>

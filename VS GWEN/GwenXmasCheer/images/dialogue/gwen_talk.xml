@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gwen_talk.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confused0000" x="1" y="1" width="433" height="591"/>
+	<SubTexture name="confused0001" x="1" y="1" width="433" height="591"/>
+	<SubTexture name="confused0002" x="435" y="1" width="433" height="591"/>
+	<SubTexture name="confused0003" x="869" y="1" width="433" height="591"/>
+	<SubTexture name="confused0004" x="1303" y="1" width="433" height="591"/>
+	<SubTexture name="confused0005" x="1" y="593" width="433" height="591"/>
+	<SubTexture name="happy0000" x="435" y="593" width="433" height="591"/>
+	<SubTexture name="happy0001" x="435" y="593" width="433" height="591"/>
+	<SubTexture name="happy0002" x="869" y="593" width="433" height="591"/>
+	<SubTexture name="happy0003" x="869" y="593" width="433" height="591"/>
+	<SubTexture name="happy0004" x="1303" y="593" width="433" height="591"/>
+	<SubTexture name="happy0005" x="1303" y="593" width="433" height="591"/>
+	<SubTexture name="talk0000" x="1" y="1185" width="433" height="591"/>
+	<SubTexture name="talk0001" x="435" y="1185" width="433" height="591"/>
+	<SubTexture name="talk0002" x="869" y="1185" width="433" height="591"/>
+	<SubTexture name="talk0003" x="869" y="1185" width="433" height="591"/>
+	<SubTexture name="talk0004" x="1303" y="1185" width="433" height="591"/>
+	<SubTexture name="talk0005" x="1303" y="1185" width="433" height="591"/>
+</TextureAtlas>

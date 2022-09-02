@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coburn-talk_assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coburn talk0000" x="1" y="1" width="449" height="402" frameX="-31" frameY="0" frameWidth="480" frameHeight="402"/>
+	<SubTexture name="coburn talk0001" x="1" y="1" width="449" height="402" frameX="-31" frameY="0" frameWidth="480" frameHeight="402"/>
+	<SubTexture name="coburn talk0002" x="451" y="1" width="467" height="395" frameX="-13" frameY="-7" frameWidth="480" frameHeight="402"/>
+	<SubTexture name="coburn talk0003" x="451" y="1" width="467" height="395" frameX="-13" frameY="-7" frameWidth="480" frameHeight="402"/>
+	<SubTexture name="coburn talk0004" x="919" y="1" width="449" height="388" frameX="-31" frameY="-14" frameWidth="480" frameHeight="402"/>
+	<SubTexture name="coburn talk0005" x="919" y="1" width="449" height="388" frameX="-31" frameY="-14" frameWidth="480" frameHeight="402"/>
+	<SubTexture name="talk0000" x="1369" y="1" width="583" height="462"/>
+	<SubTexture name="talk0001" x="1369" y="1" width="583" height="462"/>
+	<SubTexture name="talk0002" x="1" y="464" width="583" height="462"/>
+	<SubTexture name="talk0003" x="1" y="464" width="583" height="462"/>
+	<SubTexture name="talk0004" x="585" y="464" width="583" height="462"/>
+	<SubTexture name="talk0005" x="585" y="464" width="583" height="462"/>
+</TextureAtlas>
