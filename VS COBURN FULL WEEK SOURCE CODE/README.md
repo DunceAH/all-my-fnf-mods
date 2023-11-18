@@ -2,10 +2,16 @@
 Hi! Thanks for playing VS. Coburn!
 This is the open source repository for the mod the flps and flas are located in a seperate "fnf mods" repository. 
 
-## Credits:
-* Coburn (Creator)- (https://twitter.com/DunceCap0),
-* BigBombKitty (Lua Switch Stage Event)- (https://github.com/BigBombKitty)
+## Vs Coburn:Full Week Credits-
+* Dunce Cap (creator)- (https://twitter.com/DunceCap0),
+* MimiKirb (Charter and Playtester)- (https://gamebanana.com/members/1794438)
+### Special Thanks-
+* Kitsune BigBombKitty (Lua Switch Stage Event Code)- (https://github.com/BigBombKitty)
+* Ohsatgames ("Quick Snow Effect" Haxe Code Tutorial)- (https://www.ohsat.com)
+* MintBreath (Boyfriend Soundfont)- (https://gamebanana.com/members/1773238)
+* BBpanzu/Rainbrony (Camera Note Movement Code)- (https://twitter.com/bbsub3)
 
+## Sound Effects Credits-
 Here is the full list of sound effects used for the cutscenes-
 
 Freesound
